@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Demo Video
 
-[Watch the video]([https://github.com/USERNAME/REPOSITORY/raw/BRANCH/todo.mp4](https://github.com/SrinivasaRaoSimhadri/todo-Next.js/blob/master/todo.mp4))
+[Watch the video](https://github.com/SrinivasaRaoSimhadri/todo-Next.js/blob/master/todo.mp4)
 
