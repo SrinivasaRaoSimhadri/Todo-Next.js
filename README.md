@@ -38,8 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="https://github.com/SrinivasaRaoSimhadri/todo-Next.js/blob/master/todo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video]([https://github.com/USERNAME/REPOSITORY/raw/BRANCH/todo.mp4](https://github.com/SrinivasaRaoSimhadri/todo-Next.js/blob/master/todo.mp4))
 
